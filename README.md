@@ -18,6 +18,7 @@ cmake | 3.18.4
 dlib ([installation instructions](https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf)) | 19.21.0
 face-recognition | 1.3.0
 numpy | 1.19.4
+os    |  
 
 **Note:** We could `pip install -r requirements.txt` to install all the required libraries.
 
