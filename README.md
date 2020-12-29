@@ -78,4 +78,4 @@ Detection of faces based on distance of image from webcam.
 * https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348
 
 #### Youtube Tutorial
-https://www.youtube.com/watch?v=sz25xxF_AVE&feature=youtu.be
+* https://www.youtube.com/watch?v=sz25xxF_AVE&feature=youtu.be
