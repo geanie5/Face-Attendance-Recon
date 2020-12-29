@@ -67,9 +67,9 @@ Detection of faces based on distance of image from webcam.
 
 # Further work 
 
-* Explore ways to write straight into google sheets using google sheets API, instead of writing to csv file
-* Adapting display of bounding box which tags the face with the name and ID with regards to distance of image from webcam
-* Storing of encodings for each image prior to running of program
+* Explore ways to write straight into google sheets using google sheets API, instead of writing to csv file.
+* Adapting display of bounding box which tags the face with the name and ID with regards to distance of image from webcam.
+* Storing of encodings for each image prior to running of program.
 
 
 # Acknowledgements 
