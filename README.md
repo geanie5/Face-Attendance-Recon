@@ -6,6 +6,13 @@ Attendance Face Recon is a program which detects images and tags the images with
 # Set Up
 
 **Prerequisites:**
+
+- Git
+- Python 3.6
+- Pycharm
+- dlib ([installation instructions](https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf))
+- `pip install -r requirements.txt`
+
 Libraries | Version
 -----------|-----------
 opencv-python | 4.4.0.46
@@ -13,13 +20,6 @@ cmake | 3.18.4
 dlib | 19.21.0
 face-recognition | 1.3.0
 numpy | 1.19.4
-
-
-- Git
-- Python 3.6
-- Pycharm
-- dlib ([installation instructions](https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf))
-- `pip install -r requirements.txt`
 
 # Snapshot
 
