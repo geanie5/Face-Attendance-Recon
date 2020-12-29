@@ -28,28 +28,40 @@ Result:
 
 ![](README_Image.png)
 
+# How it works?
+
+Attendance Face Recon works best for a one-time event. Prior to the event, we will need to tag the name and ID with the images of their faces. On the event day, one only needs to run the webcam and the program will automatically input entries in the csv file in the form of attendance. For subsequent events, user will have to save a copy of the csv file, so that the original file can be kept. For the next event, user will need to rename the original csv file to the current date (eg. from  "Attendance30112020.csv" to "Attendance01122020.csv"), clear the entries in Pycharm and run the code. Once attendance taking has been completed, we will then need to save a copy of the excel sheet. For the following workshop, we will need to repeat the steps as mentioned.
+
+
 # Final Thoughts
 
-Attendance Face Recon works best for a one-time event. For subsequent events, user will have to save a copy of the csv file, so that the original file can be kept. For the next event, user will need to rename the original csv file to the current date (eg. from  "Attendance30112020.csv" to "Attendance01122020.csv"), clear the entries in Pycharm and run the code. Once attendance taking has been completed, we will then need to save a copy of the excel sheet. For the following workshop, we will need to repeat the steps as mentioned.
-To simplify this process, we could automate the creation of a new csv file. 
-
-Depending on the size of the image, the scaling of rectangle will affect the positioning of the label which is something we could improve on.
-
 What are the lessons?
-What are the different components we need to start a face recognition project.
+
+
+The different components we need to start a face recognition project.
+
 Application of face recognition to suit our needs in our club’s attendance taking.
+
 Adapting to the various sizes of the images as we would collect different images and it would have different coordinates displayed for the bounding box which tags the ID with the face. 
 
-Will this be useful? Ask yourself truthfully.
-It will be useful but will need improvements to become a foolproof solution
 
-How to use this model? In the ideal case.
+Will this be useful? 
+
+It will be useful but will need improvements to become a foolproof solution.
+
+
+How to use this model?
+
 Attendance Face Recon is a program which detects images and tags the images with information based on features it detects. After identification, it will take this data and input it into an excel sheet with a timestamp. It can be then saved as a file for recording purposes. This efficient process of taking attendance can reduce time and manpower as compared to the manual process carried out previously.
 
+
 What are the shortfalls or challenges this model face?
-Need for a database/collection for a larger volume (storing of encodings?)
-Need to tag faces with IDs prior to workshop
-Detection of faces based on distance of image from webcam
+
+Need for a database/collection for a larger volume.
+
+Need to tag faces with IDs prior to workshop.
+
+Detection of faces based on distance of image from webcam.
 
 # Further work 
 
