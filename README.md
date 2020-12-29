@@ -35,6 +35,22 @@ To simplify this process, we could automate the creation of a new csv file.
 
 Depending on the size of the image, the scaling of rectangle will affect the positioning of the label which is something we could improve on.
 
+What are the lessons?
+What are the different components we need to start a face recognition project.
+Application of face recognition to suit our needs in our club’s attendance taking.
+Adapting to the various sizes of the images as we would collect different images and it would have different coordinates displayed for the bounding box which tags the ID with the face. 
+
+Will this be useful? Ask yourself truthfully.
+It will be useful but will need improvements to become a foolproof solution
+
+How to use this model? In the ideal case.
+Attendance Face Recon is a program which detects images and tags the images with information based on features it detects. After identification, it will take this data and input it into an excel sheet with a timestamp. It can be then saved as a file for recording purposes. This efficient process of taking attendance can reduce time and manpower as compared to the manual process carried out previously.
+
+What are the shortfalls or challenges this model face?
+Need for a database/collection for a larger volume (storing of encodings?)
+Need to tag faces with IDs prior to workshop
+Detection of faces based on distance of image from webcam
+
 # Further work 
 
 - [ ] asdfasdf
