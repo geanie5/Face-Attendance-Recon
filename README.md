@@ -74,8 +74,8 @@ Detection of faces based on distance of image from webcam.
 
 # Acknowledgements 
 
-https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
-https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348
+* https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+* https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348
 
 #### Youtube Tutorial
 https://www.youtube.com/watch?v=sz25xxF_AVE&feature=youtu.be
