@@ -24,7 +24,9 @@ os    |
 
 # Snapshot
 
-insert image of webcam and demo
+Result:
+
+![](README_Image.png)
 
 # Final Thoughts
 
