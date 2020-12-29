@@ -5,7 +5,7 @@ Attendance Face Recon is a program which detects images and tags the images with
 
 # Set Up
 
-Requirements:
+Prerequisites:
 
 - Git
 - Python 3.6
