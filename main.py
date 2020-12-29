@@ -19,9 +19,9 @@ for cl in glob.glob(image_folder_path):
 #to display name and student ID from image name
 for i in classNames:
     v = i
-    splitedname = v.split('_')
-    Name = splitedname[0]
-    ID = splitedname[1]
+    splitedName = v.split('_')
+    Name = splitedName[0]
+    ID = splitedName[1]
 
 #once we import images, we find the encodings for each of them
 def findEncoding(images):
