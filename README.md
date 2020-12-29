@@ -30,7 +30,9 @@ Result:
 
 # How it works?
 
-Attendance Face Recon works best for a one-time event. Prior to the event, we will need to tag the name and ID with the images of their faces. On the event day, one only needs to run the webcam and the program will automatically input entries in the csv file in the form of attendance. For subsequent events, user will have to save a copy of the csv file, so that the original file can be kept. For the next event, user will need to rename the original csv file to the current date (eg. from  "Attendance30112020.csv" to "Attendance01122020.csv"), clear the entries in Pycharm and run the code. Once attendance taking has been completed, we will then need to save a copy of the excel sheet. For the following workshop, we will need to repeat the steps as mentioned.
+Attendance Face Recon works best for a one-time event. Prior to the event, we will need to tag the name and ID with the images of their faces. On the event day, one only needs to run the webcam and the program will automatically input entries in the csv file in the form of attendance. 
+
+For subsequent events, user will have to save a copy of the csv file, so that the original file can be kept. For the next event, user will need to rename the original csv file to the current date (eg. from  "Attendance30112020.csv" to "Attendance01122020.csv"), clear the entries in Pycharm and run the code. Once attendance taking has been completed, we will then need to save a copy of the excel sheet. For the following workshop, we will need to repeat the steps as mentioned.
 
 
 # Final Thoughts
